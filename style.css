@@ -1,0 +1,35 @@
+table{
+    border:solid blue;
+    border-collapse: collapse;
+    text-align: center;
+    margin-left: 100px;
+}
+th{
+    border: 1px solid blue;
+    padding: 3px;
+
+}
+td{
+    border: 1px solid blue;
+    padding: 15px 100px;
+}
+div{
+    border: solid blue;
+    text-shadow: 5px 5px 7px blue;
+    border-radius: 15px 0px 15px 0px;
+    block-size: 80px;
+    border-block-end-width: 10px;
+    width: 150px;
+
+}
+hr{
+    width: 0px;
+
+}
+.a1{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(198,71,40,1) 29%, rgba(211,215,26,1) 65%, rgba(0,212,255,1) 100%);
+}
+    .transparent {
+    background-color: #0000ff90;
+}
